@@ -1,2 +1,7 @@
-# js-shoppingcart
-JS Shopping Cart
+# JS Shopping Cart
+
+## Running
+
+```js
+node index.js
+```
